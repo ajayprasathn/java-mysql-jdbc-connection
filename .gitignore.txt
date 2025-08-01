@@ -1,0 +1,16 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore build output folders
+/target/
+/bin/
+
+# VS Code settings folder
+/.vscode/
+
+# Log files
+*.log
+
+# Ignore environment and properties files with credentials
+*.env
+db_config.properties
